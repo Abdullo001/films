@@ -1,0 +1,31 @@
+body {
+	padding: 20px 0;
+}
+
+.film-card {
+	min-height: 1000px;
+}
+
+.btn-ganre {
+	margin-right: 10px;
+}
+
+.btn-ganre:last-child {
+	margin-right: 0;
+}
+
+.btn-0 {
+	background-color: aquamarine;
+}
+.btn-1 {
+	background-color: aqua;
+}
+.btn-2 {
+	background-color: coral;
+}
+.btn-3 {
+	background-color: bisque;
+}
+.btn-4 {
+	background-color: aquamarine;
+}
